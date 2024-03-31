@@ -31,7 +31,7 @@ My research interests mainly lie in Computer Vision and Robotics.
 
 [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
 
-**Ziyu Wang***, Yue Xu*, Cewu Lu, Yong-Lu Li
+**Ziyu Wang***, Yue Xu*, Cewu Lu, Yong-Lu Li#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BsM3ggwAAAAJ&citation_for_view=BsM3ggwAAAAJ:u-x6o8ySG0sCC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
@@ -46,7 +46,6 @@ My research interests mainly lie in Computer Vision and Robotics.
 # 📖 Educations
 - *2021.09 - 2025.06 (expected)*, B.S. major in Micro Electronics, Shanghai Jiao Tong University
   - **Zhiyuan Honor Program of Engineering** (an elite program for Top 5% talented students)
-
 
 # 💻 Internships
 - *2023.02 - Present*, [MVIG Lab](https://www.mvig.org/), [RHOS Group](https://mvig-rhos.com/), China.
