@@ -34,8 +34,21 @@ corresponding author: #
 
 **Ziyu Wang**\*, Yue Xu\*, Cewu Lu, Yong-Lu Li#
 
-**Project**  ![Stars](https://img.shields.io/github/stars/yuz1wan/video_distillation?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/yuz1wan/video_distillation)  ![Stars](https://img.shields.io/github/stars/yuz1wan/video_distillation?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/distill_pruning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381)
+
+Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung Tang
+
+[**Project**](https://github.com/silicx/GoldFromOres)  ![Stars](https://img.shields.io/github/stars/silicx/GoldFromOres?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is the very first work that systematically study the data redundancy in the dataset distillation. 
+- We propose multiple effective criteria for pruning, and we hope our observation, analysis and empirical results could provide deeper insight into the internal mechanism of dataset distillation and neural network training.
 </div>
 </div>
 
