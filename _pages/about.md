@@ -34,7 +34,7 @@ corresponding author: #
 
 **Ziyu Wang**\*, Yue Xu\*, Cewu Lu, Yong-Lu Li#
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BsM3ggwAAAAJ&citation_for_view=BsM3ggwAAAAJ:u-x6o8ySG0sCC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**  ![Stars](https://img.shields.io/github/stars/yuz1wan/video_distillation?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
 </div>
 </div>
