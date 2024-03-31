@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a junior student studying at Shanghai Jiao Tong University, major in Micro Electronics.
+I’m a junior student studying at Shanghai Jiao Tong University, major in Micro Electronics. I'm an intern student at the RHOS group at MVIG, Shanghai Jiao Tong University, under the supervision of Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/).
 
 My research interests mainly lie in Computer Vision and Robotics.
 
@@ -25,13 +25,14 @@ My research interests mainly lie in Computer Vision and Robotics.
 - *2024.02*: &nbsp;🎉🎉 Our work [Video Distillation](https://github.com/yuz1wan/video_distillation) will appear at CVPR 2024.
 
 # 📝 Publications 
-
+equal contribution: *
+corresponding author: #
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
 
-**Ziyu Wang***, Yue Xu*, Cewu Lu, Yong-Lu Li#
+**Ziyu Wang**\*, Yue Xu\*, Cewu Lu, Yong-Lu Li#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BsM3ggwAAAAJ&citation_for_view=BsM3ggwAAAAJ:u-x6o8ySG0sCC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
