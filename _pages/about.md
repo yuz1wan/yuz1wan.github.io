@@ -36,6 +36,8 @@ corresponding author: #
 
 [**Project**](https://github.com/yuz1wan/video_distillation)  ![Stars](https://img.shields.io/github/stars/yuz1wan/video_distillation?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
+- We introduce a novel taxonomy for temporal condensation in video distillation methods, which guides our and future works.
+- We propose a novel paradigm, enabling existing image distillation techniques to achieve improved results when applied to video distillation while using an even smaller memory storage budget. 
 </div>
 </div>
 
@@ -53,7 +55,7 @@ Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung
 </div>
 
 # 🎖 Honors and Awards
-- *2023.10* China Optics Valley Scholarship - Optoelectronic Information Award (top 5%).
+- *2023.10* China Optics Valley Scholarship - Optoelectronic Information Award (No more than 30 undergraduate students in SJTU).
 - *2023.10* Zhiyuan Honors Scholarship (top 5%).
 - *2022.10* Zhiyuan Honors Scholarship (top 5%).
 
