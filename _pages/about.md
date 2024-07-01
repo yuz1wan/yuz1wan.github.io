@@ -33,7 +33,7 @@ corresponding author: #
 
 [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
 
-**Ziyu Wang**\*, Yue Xu\*, Cewu Lu, Yong-Lu Li$^#$
+**Ziyu Wang**\*, Yue Xu\*, Cewu Lu, Yong-Lu Li#
 
 [**Project**](https://github.com/yuz1wan/video_distillation)  ![Stars](https://img.shields.io/github/stars/yuz1wan/video_distillation?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we provide the first systematic study of video distillation and introduce a taxonomy to categorize temporal compression.
@@ -47,7 +47,7 @@ corresponding author: #
 
 [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381)
 
-Yue Xu, Yong-Lu Li$^#$, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung Tang
+Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung Tang
 
 [**Project**](https://github.com/silicx/GoldFromOres)  ![Stars](https://img.shields.io/github/stars/silicx/GoldFromOres?color=yellow&label=Stars)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is the very first work that systematically study the data redundancy in the dataset distillation. 
