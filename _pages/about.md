@@ -23,7 +23,8 @@ I'm an intern student at the [RHOS Group](https://mvig-rhos.com/) at [MVIG Lab](
 My research interests mainly lie in Computer Vision and Robotics.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our work [Video Distillation](https://github.com/yuz1wan/video_distillation) will appear at **CVPR 2024**.
+- *2024.07*: &nbsp;🎉🎉 Our work [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) is accepted to **ECCV 2024**.
+- *2024.02*: &nbsp;🎉🎉 Our work [Video Distillation](https://arxiv.org/abs/2312.00362) is accepted to **CVPR 2024**.
 
 # 📝 Publications 
 equal contribution: *  
@@ -42,7 +43,7 @@ corresponding author: #
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/distill_pruning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/distill_pruning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381)
@@ -56,6 +57,7 @@ Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung
 </div>
 
 # 🎖 Honors and Awards
+- *2024.07* **China College IC Competition** East China Division First Prize.
 - *2024.06* **Shanghai's Hope Star of Tomorrow's Technology** (Only 100 groups of undergraduate, master's, and doctoral students in Shanghai).
 - *2023.10* **China Optics Valley Scholarship - Optoelectronic Information Award** (No more than 30 undergraduate students in SJTU).
 - *2023.10* Zhiyuan Honors Scholarship (top 5%).
