@@ -23,8 +23,8 @@ I'm an intern student at the [RHOS Group](https://mvig-rhos.com/) at [MVIG Lab](
 My research interests mainly lie in Computer Vision and Robotics.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our work [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) is accepted to **ECCV 2024**.
-- *2024.02*: &nbsp;🎉🎉 Our work [Video Distillation](https://arxiv.org/abs/2312.00362) is accepted to **CVPR 2024**.
+- *2024.07*: &nbsp;🎉🎉 Our paper on [efficient dataset distillation](https://arxiv.org/abs/2305.18381) is accepted to **ECCV 2024**.
+- *2024.02*: &nbsp;🎉🎉 Our paper on [video distillation](https://arxiv.org/abs/2312.00362) is accepted to **CVPR 2024**.
 
 # 📝 Publications 
 equal contribution: *  
