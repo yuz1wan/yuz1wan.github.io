@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a junior student studying at Shanghai Jiao Tong University, major in Micro Electronics.  
-I'm an intern student at the [RHOS Group](https://mvig-rhos.com/) at [MVIG Lab](https://www.mvig.org/), Shanghai Jiao Tong University, under the supervision of Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/).
+I’m a Master Student studying at Shanghai Jiao Tong University, major in Computer Science.  
+I'm a student at the [RHOS Lab](https://mvig-rhos.com/), Shanghai Jiao Tong University, under the supervision of Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 
-My research interests mainly lie in Computer Vision and Robotics.
+My research interests mainly lie in Data Attribution and Robotics.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper on [efficient dataset distillation](https://arxiv.org/abs/2305.18381) is accepted to **ECCV 2024**.
@@ -56,16 +56,19 @@ Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
+<!-- 校优秀毕业生 -->
+- *2025.06* **Shanghai Jiao Tong University Outstanding Graduate**.
 - *2024.07* **China College IC Competition** East China Division First Prize.
-- *2024.06* **Shanghai's Hope Star of Tomorrow's Technology** (Only 100 groups of undergraduate, master's, and doctoral students in Shanghai).
-- *2023.10* **China Optics Valley Scholarship - Optoelectronic Information Award** (No more than 30 undergraduate students in SJTU).
-- *2023.10* Zhiyuan Honors Scholarship (top 5%).
-- *2022.10* Zhiyuan Honors Scholarship (top 5%).
+- *2024.06* **Shanghai's Hope Star of Tomorrow's Technology** (Only 100 groups of undergraduate, master's, and doctoral students in Shanghai). -->
+<!-- - *2023.10* **China Optics Valley Scholarship - Optoelectronic Information Award** (No more than 30 undergraduate students in SJTU). -->
+<!-- - *2023.10* Zhiyuan Honors Scholarship (top 5%).
+- *2022.10* Zhiyuan Honors Scholarship (top 5%). -->
 
 # 📖 Educations
-- *2021.09 - 2025.06 (expected)*, B.S. major in Micro Electronics, Shanghai Jiao Tong University
+- *2025.09 - 2028.03 (expected)*, M.S. major in Computer Science, Shanghai Jiao Tong University
+- *2021.09 - 2025.06*, B.S. major in Micro Electronics, Shanghai Jiao Tong University
   - **Zhiyuan Honor Program of Engineering** (an elite program for Top 5% talented students)
 
 # 💻 Internships
-- *2023.02 - Present*, [MVIG Lab](https://www.mvig.org/), [RHOS Group](https://mvig-rhos.com/), China. Instructor: Yong-Lu Li.
+- *2023.02 - Present*, [RHOS Lab](https://mvig-rhos.com/), China. Instructor: Yong-Lu Li.
