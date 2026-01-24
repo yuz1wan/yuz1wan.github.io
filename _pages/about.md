@@ -60,7 +60,7 @@ Yue Xu, Yong-Lu Li#, Kaitong Cui, **Ziyu Wang**, Cewu Lu, Yu-Wing Tai, Chi-Keung
 <!-- 校优秀毕业生 -->
 - *2025.06* **Shanghai Jiao Tong University Outstanding Graduate**.
 - *2024.07* **China College IC Competition** East China Division First Prize.
-- *2024.06* **Shanghai's Hope Star of Tomorrow's Technology** (Only 100 groups of undergraduate, master's, and doctoral students in Shanghai). -->
+- *2024.06* **Shanghai's Hope Star of Tomorrow's Technology** (Only 100 groups of undergraduate, master's, and doctoral students in Shanghai).
 <!-- - *2023.10* **China Optics Valley Scholarship - Optoelectronic Information Award** (No more than 30 undergraduate students in SJTU). -->
 <!-- - *2023.10* Zhiyuan Honors Scholarship (top 5%).
 - *2022.10* Zhiyuan Honors Scholarship (top 5%). -->
